@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">长连接</string>
+    <string name="ShowMessage">接收框</string>
+    <string name="Confirm">确认</string>
+    <string name="MSG"> </string>
+    <string name="InputIP"> </string>
+    <string name="connect">连接</string>
+    <string name="send">发送框</string>
+</resources>

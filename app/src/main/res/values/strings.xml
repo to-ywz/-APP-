@@ -1,0 +1,12 @@
+<resources>
+<string name="app_name">多盒搜索</string>
+<string name="TCP">IP</string>
+<string name="ipINPUT"> </string>
+    <string name="IP">连接</string>
+<string name="IPSure">更改</string>
+    <string name="disconnect">断开</string>
+<string name="SendSure">保存</string>
+    <string name="Number"> ID</string>
+    <string name="spinner">单击进行选择</string>
+    <string name="light">点亮</string>
+</resources>
